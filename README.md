@@ -16,3 +16,10 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
+<h2 align="left">Play Games with Me</h2>
+
+###
+
+<img src="https://raw.githubusercontent.com/aliefhidayat/aliefhidayat/output/snake.svg" alt="Snake animation" />
+
+###
