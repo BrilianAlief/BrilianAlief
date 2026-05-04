@@ -8,16 +8,3 @@
 
 ##### 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white)
-##### 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=BrilianAlief&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=BrilianAlief&theme=react&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=BrilianAlief&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
-<h2 align="left">Play Games with Me</h2>
-
-###
-
-<img src="https://raw.githubusercontent.com/aliefhidayat/aliefhidayat/output/snake.svg" alt="Snake animation" />
-
-###
